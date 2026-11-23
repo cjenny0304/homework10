@@ -1,0 +1,5 @@
+PASS: 7 distinct sources with verified records, cards and successful batch entries
+PASS: PDF hashes, bibliography, source IDs and local Markdown links
+PASS: 5/5 topics and 7/7 sources mapped to supported content
+Source appearances: S01=2, S02=1, S03=1, S04=2, S05=3, S06=3, S07=1
+Exit status: 0

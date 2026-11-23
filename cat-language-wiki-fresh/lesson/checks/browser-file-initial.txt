@@ -1,0 +1,9 @@
+Chromium 156.0.8078.79, offline file://
+page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at file:///workspace/work/project/cat-language-wiki-fresh/lesson/slides.html
+Call log:
+[2m  - navigating to "file:///workspace/work/project/cat-language-wiki-fresh/lesson/slides.html", waiting until "load"[22m
+
+    at exercise (/workspace/work/project/cat-language-wiki-fresh/lesson/checks/browser.cjs:14:14)
+    at async /workspace/work/project/cat-language-wiki-fresh/lesson/checks/browser.cjs:99:5 {
+  name: 'Error'
+}

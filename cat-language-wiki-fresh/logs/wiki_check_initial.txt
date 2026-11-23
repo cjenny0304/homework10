@@ -1,0 +1,16 @@
+FAIL: body-language: adjacent references render as one link in 一般讀者解釋
+FAIL: body-language: adjacent references render as one link in 來源差異
+FAIL: body-language: adjacent references render as one link in 限制
+FAIL: daily-habits: adjacent references render as one link in 來源差異
+FAIL: daily-habits: adjacent references render as one link in 限制
+FAIL: emotions: adjacent references render as one link in 一般讀者解釋
+FAIL: emotions: adjacent references render as one link in 來源差異
+FAIL: emotions: adjacent references render as one link in 限制
+FAIL: myths: adjacent references render as one link in 一般讀者解釋
+FAIL: myths: adjacent references render as one link in 來源差異
+FAIL: myths: adjacent references render as one link in 來源支持的內容
+FAIL: myths: adjacent references render as one link in 限制
+FAIL: speech: adjacent references render as one link in 一般讀者解釋
+FAIL: speech: adjacent references render as one link in 來源差異
+FAIL: speech: adjacent references render as one link in 限制
+Exit status: 1

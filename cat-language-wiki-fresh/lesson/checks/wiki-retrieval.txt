@@ -1,0 +1,12 @@
+PASS: 7 distinct sources with verified records, cards and successful batch entries
+PASS: PDF hashes, bibliography, source IDs and local Markdown links
+PASS: 5/5 topics and 7/7 sources mapped to supported content
+Source appearances: S01=2, S02=1, S03=1, S04=2, S05=3, S06=3, S07=1
+wiki/topics/myths.md:5:聽到自己的名字、眨了一下眼或發出呼嚕，都可以是觀察的起點。想知道這些反應有什麼意思，要看當時還發生了什麼。[S01]、[S04]、[S05]、[S06]
+wiki/topics/myths.md:11:- [S05]、[S06] **「呼嚕一定是開心」？** Cats Protection 指出緊張或疼痛時也可能呼嚕。RSPCA 的圖解補充如何一起觀察眼睛、尾巴、嘴和姿勢。
+wiki/topics/myths.md:19:S01 與 S04 都測行為，但分別測錄音和人臉互動的反應。S05 直接討論呼嚕的情境，S06 說明如何判讀整體姿態，並未測試呼嚕。[S01]、[S04]、[S05]、[S06]
+wiki/topics/emotions.md:1:# C｜慢眨眼、磨蹭和呼嚕傳達什麼？
+wiki/topics/emotions.md:5:慢眨眼可以是友善互動的線索。貓磨蹭臉頰時，也可以一起看牠的身體是否放鬆。聽到呼嚕時，當下的情境尤其重要。[S04]、[S05]
+wiki/topics/emotions.md:10:- [S05] Cats Protection 把慢眨眼和磨蹭臉頰列在可能的愉快線索中，也指出緊張或疼痛時可能呼嚕。
+wiki/topics/emotions.md:14:S04 測量的是眼部動作與接近行為。只憑一次慢眨眼要判定「牠很愛我」，仍需更多證據。磨蹭和呼嚕也要和其他身體線索一起理解。[S04]、[S05]
+wiki/topics/emotions.md:18:S04 用兩個有對照條件的實驗研究慢眨眼。S05 給的是生活觀察指引，補充了 S04 未測試的磨蹭與呼嚕。[S04]、[S05]

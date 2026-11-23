@@ -1,12 +1,13 @@
-# Cat Language Wiki｜索引（待批次 ingest）
+# Cat Language Wiki｜索引
 
-**狀態：尚未 ingest。**
+貓咪真的聽得懂人類說話嗎？——貓咪行為解密
 
-預定章節：
-1. 認得名字與主人聲音（S01, S02, S03）
-2. 尾巴、耳朵、眼睛與身體姿勢（S05, S06）
-3. 慢眨眼、磨蹭及呼嚕（S04, S05）
-4. 常見誤解與證據限制（S01, S05, S06）
-5. 玩耍、攀爬、抓撓、狩獵等日常習性（S07）
+一次批次匯入 7 份已核對來源，涵蓋五個主題。
 
-正式 ingest 後再將章節連到 `topics/*.md`，勿預先宣稱已完成。
+- [A｜貓咪聽得懂人話嗎？](topics/speech.md)｜S01, S02, S03
+- [B｜怎麼看懂貓的肢體語言？](topics/body-language.md)｜S05, S06
+- [C｜慢眨眼、磨蹭和呼嚕傳達什麼？](topics/emotions.md)｜S04, S05
+- [D｜三個常見的貓咪迷思](topics/myths.md)｜S01, S04, S05, S06
+- [E｜玩耍、抓撓與探索是日常需求](topics/daily-habits.md)｜S07, S06
+
+[批次紀錄](log.md) · [來源核實紀錄](../logs/source_review.md) · [驗證報告](../report.md)

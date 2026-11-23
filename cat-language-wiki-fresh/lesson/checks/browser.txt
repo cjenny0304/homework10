@@ -1,0 +1,4 @@
+Chromium 156.0.8078.79, loopback HTTP, external requests blocked
+PASS 1440×900: all 11 pages and source panels, local files/images and aspect ratio, navigation, guess, 3 flip cards, 3 questions, scoring, reset, no horizontal overflow or JS errors
+PASS 390×844: all 11 pages and source panels, local files/images and aspect ratio, navigation, guess, 3 flip cards, 3 questions, scoring, reset, no horizontal overflow or JS errors
+PASS 320×640: all 11 pages and source panels, local files/images and aspect ratio, navigation, guess, 3 flip cards, 3 questions, scoring, reset, no horizontal overflow or JS errors

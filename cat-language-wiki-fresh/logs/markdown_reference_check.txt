@@ -1,0 +1,5 @@
+PASS: body-language.md: 8 in-text citations resolved individually
+PASS: daily-habits.md: 7 in-text citations resolved individually
+PASS: emotions.md: 8 in-text citations resolved individually
+PASS: myths.md: 16 in-text citations resolved individually
+PASS: speech.md: 11 in-text citations resolved individually

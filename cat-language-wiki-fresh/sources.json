@@ -2,66 +2,83 @@
   {
     "id": "S01",
     "title": "Domestic cats (Felis catus) discriminate their names from other words",
-    "creators": "Atsuko Saito et al.",
+    "creators": "Atsuko Saito、Kazutaka Shinozuka、Yuki Ito、Toshikazu Hasegawa",
     "year": 2019,
     "kind": "research",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6449508/",
     "doi": "10.1038/s41598-019-40616-4",
-    "access": "開放取得論文頁面；本輪核實網頁檢索摘要與書目，尚未下載全文",
+    "access": "全文（開放授權 PDF）",
     "topics": [
       "語音",
       "名字辨識"
     ],
-    "claim": "貓可能區分自己的名字與其他字詞；不等於理解完整人類語句。",
-    "limit": "研究採特定聲音反應測試；不能推論每隻貓都會以相同方式回應。"
+    "claim": "四項錄音實驗中，習慣了前面聲音的家貓，聽到自己的名字時反應回升。家貓在陌生人發音時也能區分自己的名字與普通名詞。研究中的貓咖啡廳樣本能區分名字與普通名詞，但未顯示能區分同住貓的名字。定位：Results、Discussion、Methods。",
+    "limit": "觀察的是錄音刺激下的反應。姓名是否具有「指稱我自己」的意義、是否理解句意，仍需更多證據。貓咖啡廳樣本來自單一場所。出版社更正了受試者年齡、家庭數、部分重複參與數及補充表年齡。",
+    "dates": "2019-04-04；2019-09-10 更正",
+    "verified_url": "https://www.nature.com/articles/s41598-019-40616-4.pdf",
+    "correction_url": "https://www.nature.com/articles/s41598-019-46257-x",
+    "full_text": "raw/S01.pdf",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "sha256": "0dc9f2a7dcd7c01fa6faa4e31884fa810be979ee2401bcc03dad6a14004335cc"
   },
   {
     "id": "S02",
     "title": "Vocal recognition of owners by domestic cats (Felis catus)",
-    "creators": "Atsuko Saito; Kazutaka Shinozuka",
+    "creators": "Atsuko Saito、Kazutaka Shinozuka",
     "year": 2013,
     "kind": "research",
     "url": "https://pubmed.ncbi.nlm.nih.gov/23525707/",
     "doi": "10.1007/s10071-013-0620-4",
-    "access": "PubMed 書目與摘要已核對；非全文",
+    "access": "出版社摘要",
     "topics": [
       "語音",
       "主人辨識"
     ],
-    "claim": "研究中部分貓對飼主的聲音出現頭、耳等定向反應，與陌生聲音有別。",
-    "limit": "樣本 20 隻；不代表每隻貓都會走過來。"
+    "claim": "20 隻家貓聽不同人的錄音念牠們各自的名字。對陌生聲音反應減弱的 15 隻，在接著聽到飼主聲音時反應回升。主要觀察到轉耳、轉頭等注意反應。定位：Abstract。",
+    "limit": "研究比較誰在說話。摘要可支持上述設計與結果，對全文分析及其他實驗細節需更多證據。",
+    "dates": "2013-03-26",
+    "verified_url": "https://link.springer.com/article/10.1007/s10071-013-0620-4"
   },
   {
     "id": "S03",
     "title": "Discrimination of cat-directed speech from human-directed speech in a population of indoor companion cats (Felis catus)",
-    "creators": "Charlotte de Mouzon; Marine Gonthier; Gérard Leboucher",
+    "creators": "Charlotte de Mouzon、Marine Gonthier、Gérard Leboucher",
     "year": 2023,
     "kind": "research",
     "url": "https://pubmed.ncbi.nlm.nih.gov/36280656/",
     "doi": "10.1007/s10071-022-01674-w",
-    "access": "PubMed 書目與摘要已核對；期刊卷期 2023，線上 2022",
+    "access": "大學典藏作者稿全文、出版社摘要及更正公告",
     "topics": [
       "語音",
       "對貓語氣"
     ],
-    "claim": "小樣本實驗中，貓能在主人所說的話中區分對貓與對人的語氣；陌生人條件下未呈現同樣差異。",
-    "limit": "16 隻室內伴侶貓；原研究另有 correction，使用前需對照更正內容。"
+    "claim": "對 16 隻伴侶貓播放錄音。飼主說話時，貓對「對貓說」和「對成人說」的語調表現出區分；陌生人說話時未觀察到同樣的區分。定位：巴黎南泰爾大學典藏博士論文第 2 章的 Methods、Results、Discussion，以及出版社摘要和更正公告。",
+    "limit": "小樣本、特定錄音情境。哪個聲學特徵造成反應與能否推廣到其他貓，需更多證據。公告更正一筆參考文獻，未更動摘要的結果敘述。",
+    "dates": "2022-10-25 線上；2023 年卷期；2022-12-10 更正",
+    "verified_url": "https://link.springer.com/article/10.1007/s10071-022-01674-w",
+    "author_manuscript_url": "https://bdr.parisnanterre.fr/theses/internet/2022/2022PA100054/2022PA100054.pdf",
+    "correction_url": "https://link.springer.com/article/10.1007/s10071-022-01732-3"
   },
   {
     "id": "S04",
     "title": "The role of cat eye narrowing movements in cat–human communication",
-    "creators": "Karen McComb et al.",
+    "creators": "Tasmin Humphrey、Leanne Proops、Jemma Forman、Rebecca Spooner、Karen McComb",
     "year": 2020,
     "kind": "research",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7536207/",
     "doi": "10.1038/s41598-020-73426-0",
-    "access": "開放取得論文頁面；本輪核實摘要與出版頁，尚未下載全文",
+    "access": "全文（開放授權 PDF）",
     "topics": [
       "情感",
       "慢眨眼"
     ],
-    "claim": "實驗探討貓與人的慢眨眼互動，支持它可能具有正向社交溝通作用。",
-    "limit": "不能據此斷言每一次慢眨眼都代表愛或信任。"
+    "claim": "飼主慢眨眼時，貓比在飼主未互動的條件下更常半眨或瞇眼。另一實驗中，陌生研究者慢眨後，貓比在研究者表情中性的條件下更傾向接近。定位：Materials and methods、Results、Discussion。",
+    "limit": "觀察指標是眼部動作和接近行為。這些結果支持正向互動的解讀，但貓當下的主觀情緒與行為成因仍需更多證據。飼主做出慢眨眼的方式也有個別差異。",
+    "dates": "2020-10-05",
+    "verified_url": "https://www.nature.com/articles/s41598-020-73426-0.pdf",
+    "full_text": "raw/S04.pdf",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "sha256": "fd9fcf86d1813d5729d49ca8743f96a518e0a9581bd3e4f8a450f527d1577d56"
   },
   {
     "id": "S05",
@@ -71,14 +88,16 @@
     "kind": "professional",
     "url": "https://www.cats.org.uk/help-and-advice/cat-behaviour/cat-body-language",
     "doi": null,
-    "access": "官方照護機構網頁已查看；未見可確認的發表年",
+    "access": "官方照護網頁",
     "topics": [
       "肢體",
       "情感",
       "迷思"
     ],
-    "claim": "看尾巴、眼睛、耳朵及整體姿勢判斷；呼嚕在壓力或不適時也會出現。",
-    "limit": "指引性文章，不是單一實驗結果；不同貓與情境會有差異。"
+    "claim": "照護指南以尾巴、耳朵、眼睛、鬍鬚和姿勢描述線索，把磨蹭臉頰及慢眨眼列在愉快時可能出現的行為。呼嚕也可出現在緊張或疼痛時。定位：Signs your cat is happy、What is my cat feeling?、Purring。",
+    "limit": "本文提供一般判讀線索，適用時須看身體是否放鬆及當下情境。指南未提供判斷單一行為的診斷準確率。",
+    "dates": "未標示發表年份",
+    "verified_url": "https://www.cats.org.uk/help-and-advice/cat-behaviour/cat-body-language"
   },
   {
     "id": "S06",
@@ -88,29 +107,33 @@
     "kind": "professional",
     "url": "https://kb.rspca.org.au/categories/companion-animals/cats/behaviour/what-does-my-cats-body-language-mean",
     "doi": null,
-    "access": "官方知識庫條目已找到並核對概要；未見可確認的發表年",
+    "access": "官方知識庫網頁",
     "topics": [
       "肢體",
       "迷思"
     ],
-    "claim": "解讀貓咪情緒應綜合眼睛、尾巴、嘴部與身體姿態。",
-    "limit": "科普整理性資料；不可把單一動作視為確定診斷。"
+    "claim": "指南用眼睛、尾巴、嘴巴和姿勢的組合示範狀態。放鬆時可見自然的耳位和鬆弛姿勢；擔憂示例包括蜷低、身體緊繃、尾巴緊收與瞳孔放大。定位：A happy cat、A worried cat、An angry or very unhappy cat。",
+    "limit": "這是圖解式指引，並說明依據 RSPCA UK 的文章。單一姿勢不足以確定情緒或診斷。",
+    "dates": "發表年份未標示；2023-12-14 更新",
+    "verified_url": "https://kb.rspca.org.au/categories/companion-animals/cats/behaviour/what-does-my-cats-body-language-mean"
   },
   {
     "id": "S07",
     "title": "Behavior Problems in Cats",
-    "creators": "Merck Veterinary Manual",
+    "creators": "Gary M. Landsberg／Merck Veterinary Manual",
     "year": null,
     "kind": "professional",
     "url": "https://www.merckvetmanual.com/cat-owners/behavior-of-cats/behavior-problems-in-cats",
     "doi": null,
-    "access": "獸醫參考手冊頁面已查看；未見可確認的發表年",
+    "access": "官方獸醫手冊網頁",
     "topics": [
       "日常",
       "抓撓",
       "玩耍"
     ],
-    "claim": "正常行為需求包括遊戲、探索、攀爬、抓撓、狩獵相關活動等。",
-    "limit": "行為問題可能與健康因素相關；不代替獸醫專業診斷。"
+    "claim": "手冊列出玩耍、探索、攀爬、停棲、抓撓及狩獵相關的覓食活動等正常行為需求，並舉例以小玩具、可探索的箱子、可抓可爬的位置和需操作才能取食的玩具提供機會。定位：正文開頭正常行為需求段落。",
+    "limit": "需求會因個體而異。手冊在部分行為問題的討論中也指出須排除醫療原因，例如疼痛與皮膚疾病。僅憑本文無法判斷個別貓的狀況。",
+    "dates": "發表年份未標示；2018-05 完整審閱；2026-04 更新",
+    "verified_url": "https://www.merckvetmanual.com/cat-owners/behavior-of-cats/behavior-problems-in-cats"
   }
 ]
